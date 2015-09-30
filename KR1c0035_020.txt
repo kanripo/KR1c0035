@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩傳大全
-#+DATE: 2015-09-23 09:36:50
-#+PROPERTY: JUAN 20
+#+DATE: 2015-08-24 22:05:40.054338
+#+PROPERTY: ID KR1c0035
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十
 <pb:KR1c0035_WYG_020-1a>¶
 欽定四庫全書¶
 　詩傳大全卷二十　　　　明　胡廣等　撰¶
@@ -866,4 +868,3 @@
 　　　　(之屬君臣男女有功徳者/靡不褒楊於聲樂之間也)¶
 　¶
 　詩傳大全卷二十¶
-
